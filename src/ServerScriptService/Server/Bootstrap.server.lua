@@ -5,4 +5,6 @@ local Shared = ReplicatedStorage:WaitForChild("Shared")
 local Logger = require(Shared:WaitForChild("Util"):WaitForChild("Logger"))
 require(Shared:WaitForChild("Remotes"))
 
-Logger.info("Server boot OK (with Shared/Remotes/Logger)")
+require(script.Parent.Rewards.RewardsService)
+
+Logger.info("Server boot OK (Rewards ready)")

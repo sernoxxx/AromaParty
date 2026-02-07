@@ -1,4 +1,4 @@
-﻿local DataStoreService = game:GetService("DataStoreService")
+local DataStoreService = game:GetService("DataStoreService")
 
 local ProfileStore = {}
 ProfileStore.__index = ProfileStore

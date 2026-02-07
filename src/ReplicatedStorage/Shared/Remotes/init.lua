@@ -1,4 +1,4 @@
-﻿local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local Shared = ReplicatedStorage:WaitForChild("Shared")
 local remotesFolder = Shared:FindFirstChild("Remotes") or Instance.new("Folder")

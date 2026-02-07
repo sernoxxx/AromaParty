@@ -1,4 +1,4 @@
-﻿return {
+return {
 GamePasses = {
 VIP_FOREVER = 0, -- TODO: später ID einsetzen
 },

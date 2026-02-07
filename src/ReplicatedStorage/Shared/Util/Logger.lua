@@ -1,4 +1,4 @@
-﻿local Logger = {}
+local Logger = {}
 
 function Logger.info(...)
 print("[AromaParty]", ...)

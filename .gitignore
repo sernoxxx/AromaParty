@@ -1,0 +1,9 @@
+﻿# Rojo / tooling
+.aftman/
+.rojo/
+*.lock
+
+# Windows / Editor
+.DS_Store
+Thumbs.db
+.vscode/
